@@ -1,1 +1,1 @@
-console.log('ola mundo');
+import './form-control';
